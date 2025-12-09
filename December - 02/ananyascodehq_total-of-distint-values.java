@@ -12,6 +12,6 @@ class Solution{
 
      public static void main(String[] args) {
         Solution s = new Solution();
-        s.printTable(6); // test input
+        s.printTable(6); 
     }
 }
